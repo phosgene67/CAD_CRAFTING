@@ -112,4 +112,4 @@ CAD_CRAFTING/
 **Md. Abdullah Al Sami Chowdhury**— 2nd-year EEE student at SUST, Bangladesh. Focused on robotics, embedded systems, and autonomous vehicle design.
 
 - GitHub: [phosgene67](https://github.com/phosgene67)
-- Portfolio: [fiboxsami.com](https://fiboxsami.com)
+- Portfolio: [fiboxsami.me](https://fiboxsami.me)
