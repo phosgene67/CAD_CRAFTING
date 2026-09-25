@@ -10,7 +10,7 @@ A collection of my CAD designs from **2025–2026**, spanning robotics, underwat
 
 | Preview | Details |
 |---|---|
-| ![AuraBot](images/01_aurabot_chassis.png) | **Model:** AuraBot chassis <br> **File:** [`AuraBot_F2URDfstl.stl`](./AuraBot_F2URDfstl.stl) |
+| ![AuraBot](images/AuraBot_F2URDfstl.png) | **Model:** AuraBot chassis <br> **File:** [`AuraBot_F2URDfstl.stl`](./AuraBot_F2URDfstl.stl) |
 
 ---
 
@@ -27,14 +27,15 @@ A collection of my CAD designs from **2025–2026**, spanning robotics, underwat
 ### Full Assembly
 | Preview | Details |
 |---|---|
-| ![SeaHawk Prototype](images/04_seahawk_rov_prototype_legs.png) | **Model:** Underwater ROV prototype (4-thruster leg layout) <br> **File:** [`Underwater ROV prototype.stl`](./Underwater%20ROV%20prototype.stl) |
-| ![SeaHawk Full Hull](images/07_seahawk_rov_full_assembly.png) | **Model:** SeaHawk V2 — final hull assembly <br> **File:** [`SeaHawk_V2(April26).stl`](./SeaHawk_V2(April26).stl) <br> *(also see* [`LampreyMMAUV_REV_Engineering.stl`](./LampreyMMAUV_REV_Engineering.stl) *)* |
+| ![SeaHawk Prototype](images/Underwater%20ROV%20prototype.png) | **Model:** Underwater ROV prototype (4-thruster leg layout) <br> **File:** [`Underwater ROV prototype.stl`](./Underwater%20ROV%20prototype.stl) |
+| ![SeaHawk Full Hull](images/SeaHawk_V2%28April26%29.png) | **Model:** SeaHawk V2 — final hull assembly <br> **File:** [`SeaHawk_V2(April26).stl`](./SeaHawk_V2%28April26%29.stl) |
+| ![Lamprey MMAUV](images/LampreyMMAUV_REV_Engineering.png) | **Model:** Lamprey MMAUV engineering revision <br> **File:** [`LampreyMMAUV_REV_Engineering.stl`](./LampreyMMAUV_REV_Engineering.stl) |
 
 ### Thruster Unit
 | Preview | Details |
 |---|---|
 | ![Thruster v1](images/05_thruster_unit_v1.png) | **Model:** ROV thruster housing (v1) <br> **File:** [`ROVthruster3.stl`](./ROVthruster3.stl) |
-| ![Thruster Housing](images/09_thruster_housing.png) | **Model:** SeaHawk thruster housing <br> **File:** [`thruster.stl`](./thruster.stl) |
+| ![Thruster Housing](images/thruster.png) | **Model:** SeaHawk thruster housing <br> **File:** [`thruster.stl`](./thruster.stl) |
 
 ### Propeller
 | Preview | Details |
@@ -44,7 +45,7 @@ A collection of my CAD designs from **2025–2026**, spanning robotics, underwat
 ### Body / Thruster Connector Clamp
 | Preview | Details |
 |---|---|
-| ![Connector Clamp](images/08_body_connector_clamp.png) | **Model:** Body/thruster mounting clamp <br> **File:** [`bodyconnector.stl`](./bodyconnector.stl) <br> *(also see* [`thrusterConnector.stl`](./thrusterConnector.stl) *)* |
+| ![Connector Clamp](images/bodyconnector.png) | **Model:** Body/thruster mounting clamp <br> **File:** [`bodyconnector.stl`](./bodyconnector.stl) <br> *(also see* [`thrusterConnector.stl`](./thrusterConnector.stl) *)* |
 
 ---
 
@@ -53,18 +54,18 @@ A collection of my CAD designs from **2025–2026**, spanning robotics, underwat
 ### Motor Holder / Bracket
 | Preview | Details |
 |---|---|
-| ![Motor Holder](images/10_motor_holder_bracket.png) | **Model:** 16GA motor holder <br> **File:** [`16GA motor holder.stl`](./16GA%20motor%20holder.stl) |
-| ![Bracket](images/12_mechanical_bracket.png) | **Model:** General mechanical mounting bracket <br> **File:** [`mechanical_tools12323.stl`](./mechanical_tools12323.stl) |
+| ![Motor Holder](images/16GA%20motor%20holder.png) | **Model:** 16GA motor holder <br> **File:** [`16GA motor holder.stl`](./16GA%20motor%20holder.stl) |
+| ![Bracket](images/mechanical_tools12323.png) | **Model:** General mechanical mounting bracket <br> **File:** [`mechanical_tools12323.stl`](./mechanical_tools12323.stl) |
 
 ### Hardware — Hex Nut
 | Preview | Details |
 |---|---|
-| ![Nut](images/11_hex_nut.png) | **Model:** Standard hex nut <br> **File:** [`Nut.stl`](./Nut.stl) |
+| ![Nut](images/Nut.png) | **Model:** Standard hex nut <br> **File:** [`Nut.stl`](./Nut.stl) |
 
 ### Motor Grip Assembly
 | Preview | Details |
 |---|---|
-| ![Motor Grip](images/13_motor_grip_assembly.png) | **Model:** Motor grip / clamp assembly <br> **File:** [`motorgrip.stl`](./motorgrip.stl) |
+| ![Motor Grip](images/motorgrip.png) | **Model:** Motor grip / clamp assembly <br> **File:** [`motorgrip.stl`](./motorgrip.stl) |
 
 ---
 
@@ -74,19 +75,20 @@ A collection of my CAD designs from **2025–2026**, spanning robotics, underwat
 CAD_CRAFTING/
 ├── README.md
 ├── images/                              # Render previews used in this README
-│   ├── 01_aurabot_chassis.png
 │   ├── 02_line_follower_chassis_top.png
 │   ├── 03_line_follower_chassis_front.png
-│   ├── 04_seahawk_rov_prototype_legs.png
 │   ├── 05_thruster_unit_v1.png
 │   ├── 06_propeller.png
-│   ├── 07_seahawk_rov_full_assembly.png
-│   ├── 08_body_connector_clamp.png
-│   ├── 09_thruster_housing.png
-│   ├── 10_motor_holder_bracket.png
-│   ├── 11_hex_nut.png
-│   ├── 12_mechanical_bracket.png
-│   └── 13_motor_grip_assembly.png
+│   ├── 16GA motor holder.png
+│   ├── AuraBot_F2URDfstl.png
+│   ├── bodyconnector.png
+│   ├── LampreyMMAUV_REV_Engineering.png
+│   ├── mechanical_tools12323.png
+│   ├── motorgrip.png
+│   ├── Nut.png
+│   ├── SeaHawk_V2(April26).png
+│   ├── thruster.png
+│   └── Underwater ROV prototype.png
 ├── AuraBot_F2URDfstl.stl
 ├── lFR IGNITE Chesis.stl
 ├── Underwater ROV prototype.stl
@@ -107,7 +109,7 @@ CAD_CRAFTING/
 
 ## 👤 About
 
-**Md.Abdullah Al Sami Chowdhury**— 2nd-year EEE student at SUST, Bangladesh. Focused on robotics, embedded systems, and autonomous vehicle design.
+**Md. Abdullah Al Sami Chowdhury**— 2nd-year EEE student at SUST, Bangladesh. Focused on robotics, embedded systems, and autonomous vehicle design.
 
 - GitHub: [phosgene67](https://github.com/phosgene67)
 - Portfolio: [fiboxsami.com](https://fiboxsami.com)
