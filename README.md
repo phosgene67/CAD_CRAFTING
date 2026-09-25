@@ -2,7 +2,6 @@
 
 A collection of my CAD designs from **2025–2026**, spanning robotics, underwater vehicles, and mechanical components — modeled primarily in Fusion 360.
 
-> **Note:** Image-to-file pairings below are my best guess based on filenames and upload order. Since several files share a project (e.g. the SeaHawk ROV has multiple sub-parts), double check and adjust any mismatches before finalizing.
 
 ---
 
